@@ -84,10 +84,16 @@
         <a href="https://github.com/Sathvik-Shetty-1569">
             <img src="https://avatars.githubusercontent.com/u/192092160?v=4" width="100px;" alt="Sathvik Shetty"/>
             <br />
-            <sub><b>Sathvik Shetty
+            <sub><b>Sathvik Shetty/b></sub>
         </a>
     </td>
-    
+    <td align="center">
+        <a href="https://github.com/dilberhusainkhan">
+            <img src="https://avatars.githubusercontent.com/u/53649013?v=4" width="100px;" alt="Dilber Husain Khan"/>
+            <br />
+            <sub><b>Dilber Husain Khan/b></sub>
+        </a>
+    </td>
     ```
 
 8) Now save your changes and exit the editor, type `git add .`, afterwards `git commit -m "<your name> 🍉"` and lastly `git push origin master`.
