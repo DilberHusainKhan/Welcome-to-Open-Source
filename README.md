@@ -5462,5 +5462,12 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+            <td align="center">
+        <a href="https://github.com/dilberhusainkhan">
+            <img src="https://avatars.githubusercontent.com/u/53649013?v=4" width="100px;" alt="Dilber Husain Khan"/>
+            <br />
+            <sub><b>Dilber Husain Khan/b></sub>
+        </a>
+    </td>
     </tbody>
 </table>
